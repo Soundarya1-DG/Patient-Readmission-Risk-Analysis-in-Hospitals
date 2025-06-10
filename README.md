@@ -80,10 +80,4 @@ Patient_Readmission_Risk_Analysis/
 ## 🙌 Author
 Soundarya DG – Data Analyst | Python Developer | Healthcare AI Enthusiast
 
-## 📬 Contact
-Feel free to reach out via [LinkedIn](https://www.linkedin.com) or GitHub Issues if you have questions or suggestions.
-
----
-
-> 📣 *This project was created as a comprehensive data analysis case study integrating end-to-end skills across the data science pipeline.*
 
